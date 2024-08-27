@@ -24,7 +24,7 @@ $\bf{\color{#FF0000}오직}$ **MacOS** 에서만 실행할 수 있는 앱입니�
 
 Development Portfolio Github / 개발 포폴 Github: 
 
-https://
+
 
 ##
 
