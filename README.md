@@ -40,10 +40,10 @@ You can download latest release version or previous version as well
 
 ## Feature
 
-- You can set your favorite student's halo animation in menu bar
-- You can check memorial image with text script by clicking on the halo
-- Student List will be added via version update
+1. You can set your favorite student's halo animation in menu bar
+2. You can check memorial image with text script by clicking on the halo
+3. Student List will be added via version update
 
-- MacOS에서 좋아하는 학생의 헤일로 애니메이션을 메뉴바에서 확인해보세요
-- 헤일로를 눌러보면 메모리얼 이미지와 대사를 볼 수 있어요
-- 학생 목록은 업데이트로 차차 추가될 예정입니다
+1. MacOS에서 좋아하는 학생의 헤일로 애니메이션을 메뉴바에서 확인해보세요
+2. 헤일로를 눌러보면 메모리얼 이미지와 대사를 볼 수 있어요
+3. 학생 목록은 업데이트로 차차 추가될 예정입니다
