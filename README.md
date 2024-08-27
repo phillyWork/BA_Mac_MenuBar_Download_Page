@@ -22,7 +22,9 @@ $\bf{\color{#FF0000}오직}$ **MacOS** 에서만 실행할 수 있는 앱입니�
 
 ##
 
-개발 과정 Github: 
+Development Portfolio Github / 개발 포폴 Github: 
+
+https://
 
 ##
 
@@ -34,3 +36,14 @@ You can download latest release version or previous version as well
 다운로드 링크는 오른쪽 "Release" 버튼을 누르면 됩니다
 
 가장 최근 버전 혹은 이전 버전을 다운로드 받을 수 있습니다
+
+
+## Feature
+
+- You can set your favorite student's halo animation in menu bar
+- You can check memorial image with text script by clicking on the halo
+- Student List will be added via version update
+
+- MacOS에서 좋아하는 학생의 헤일로 애니메이션을 메뉴바에서 확인해보세요
+- 헤일로를 눌러보면 메모리얼 이미지와 대사를 볼 수 있어요
+- 학생 목록은 업데이트로 차차 추가될 예정입니다
