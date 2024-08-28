@@ -91,3 +91,9 @@ Development Portfolio Github / 개발 포폴 Github:
 <p>You can choose between English, Korean, and Japanese</p>
 <p>영어, 한국어, 일본어 중에서 선택할 수 있습니다</p>
 
+##
+
+<p>If you have any questions, feel free to email me: hdsimonphilly@gmail.com</p>
+<p>문의 사항이 있으시면 hdsimonphilly@gmail.com으로 메일을 주세요</p>
+
+##
