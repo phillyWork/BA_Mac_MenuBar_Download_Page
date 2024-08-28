@@ -8,7 +8,7 @@
             <sparkle:version>0.1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/phillyWork/BA_Mac_MenuBar_Download_Page/releases/download/1.0(0.1)/BAMenuBarVer1.0Build01.zip" length="11974976" type="application/octet-stream" sparkle:edSignature="c/HMeRlpv57ME4IAV8oA39R8kQdhBAOO3QRr9x8M5iOoB1tiSy9Vnot4/hokezbC6H31GjlwBLVYrO8oVT3EDA=="/>
+            <enclosure url="https://github.com/phillyWork/BA_Mac_MenuBar_Download_Page/releases/download/1.0(1.0)/BAMenuBar.zip" length="11974976" type="application/octet-stream" sparkle:edSignature="c/HMeRlpv57ME4IAV8oA39R8kQdhBAOO3QRr9x8M5iOoB1tiSy9Vnot4/hokezbC6H31GjlwBLVYrO8oVT3EDA=="/>
         </item>
     </channel>
 </rss>
