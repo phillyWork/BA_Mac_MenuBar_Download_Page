@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>BAMenuBar</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 29 Aug 2024 00:47:31 +0900</pubDate>
+            <sparkle:version>1.0</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/phillyWork/BA_Mac_MenuBar_Download_Page/releases/download/1.0(1.0)/BAMenuBar.zip" length="11969429" type="application/octet-stream" sparkle:edSignature="m4q2gStRubdb+Ah+7DZPoPvjEe95iWujV55QSOdc3AMAuCUChl5/7Ep+Ep+0RsfUHsMgdrFtgvUJlINi6wgOCA=="/>
+        </item>
+    </channel>
+</rss>
