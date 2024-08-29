@@ -29,11 +29,7 @@ $\bf{\color{#FF0000}오직}$ **MacOS** 에서만 실행할 수 있는 앱입니�
 
 ##
 
-Development Portfolio Github / 개발 포폴 Github: 
-
-
-
-##
+## How to Download
 
 <img width="312" alt="githubDownloadLink" src="https://github.com/user-attachments/assets/c2d5cb87-6b53-4a8c-b5de-9fef48a36516">
 <p>Download Link is on the right corner: "Release"</p>
@@ -43,9 +39,17 @@ Development Portfolio Github / 개발 포폴 Github:
 <p>You can download latest release version or previous version as well</p>
 <p>가장 최근 버전 혹은 이전 버전을 다운로드 받을 수 있습니다</p>
 
+<br/>
+
+$\color{#FF0000}!!$ You should run this app in "Application" for Update Check feature $\color{#FF0000}!!$
+
+$\color{#FF0000}!!$ 업데이트 체크를 위해 "응용 프로그램"으로 옮겨서 실행해야 합니다 $\color{#FF0000}!!$
+
 ##
 
 ## Feature
+
+**1. Halo in Menu Bar / 메뉴 바의 헤일로**
 
 ![Shiroko1 0Speed](https://github.com/user-attachments/assets/9663d145-11d4-435b-8530-0808cc33dc92)
 ![Hina1 5Speed](https://github.com/user-attachments/assets/f0fbf903-9e23-46db-a519-cb7d9ddeb483)
@@ -55,8 +59,10 @@ Development Portfolio Github / 개발 포폴 Github:
 
 <br/>
 
-<img width="462" alt="SpeedSelectionEng" src="https://github.com/user-attachments/assets/a63e531e-3e28-4126-9b83-4cafcb4e2b37">
-<img width="428" alt="SpeedSelectionKor" src="https://github.com/user-attachments/assets/7172d034-c9bd-46c1-b041-e7c3262d1e48">
+**2. Set animation in various interval / 다양한 애니메이션 속도 설정**
+
+<img width="459" alt="selectSpeedEng" src="https://github.com/user-attachments/assets/8697d6d0-95b6-42b6-8481-cb96990cefa2">
+<img width="427" alt="selectSpeedKor" src="https://github.com/user-attachments/assets/64bd2189-0a6f-4a2b-97e3-2d737ee0cc7d">
 
 |1.0x Speed|1.75x Speed|
 |:---:|:---:|
@@ -67,29 +73,68 @@ Development Portfolio Github / 개발 포폴 Github:
 
 <br/>
 
+**3. Mini View for Memorial Illustration with script / 미니뷰를 통한 메모리얼 일러스트 및 대사**
+
 |Eng|Kor|
 |:---:|:---:|
-|<img width="313" alt="aruMemorialEng" src="https://github.com/user-attachments/assets/0abf1ec6-cf9d-4fd7-a92b-8a37f669b7e9">|<img width="296" alt="aruMemorialKor" src="https://github.com/user-attachments/assets/a7b0e95e-deaf-48c5-a027-d3a1ed04ec06">|
-|<img width="312" alt="hinaMemorialEng" src="https://github.com/user-attachments/assets/91429fe4-1734-4301-8754-b5d23c0ffeb1">|<img width="299" alt="hinaMemorialKor" src="https://github.com/user-attachments/assets/493a9d64-bdb0-4bb0-8b4e-86f716a94df8">|
+|<img width="314" alt="memorialAruEng" src="https://github.com/user-attachments/assets/71ac6b38-405a-4776-b4a4-70ec8bf4d316">|<img width="301" alt="memorialAruKor" src="https://github.com/user-attachments/assets/cc1e800c-84ce-4c07-ae8e-3bd074982dee">|
+|<img width="311" alt="memorialHinaEng" src="https://github.com/user-attachments/assets/2ec0dd13-bff6-48b6-b4f7-1e7ed2089165">|<img width="302" alt="memorialHinaKor" src="https://github.com/user-attachments/assets/2a60a990-1f9b-4597-9e73-2ec5554e1d1e">|
 
 <p>You can check memorial image with text script by clicking on the halo</p>
 <p>헤일로를 눌러보면 메모리얼 이미지와 대사를 볼 수 있어요</p>
 
 <br/>
 
-<img width="391" alt="StudentSelectionEng" src="https://github.com/user-attachments/assets/74af7f9f-f988-4ef2-82e3-f790905ccd05">
-<img width="360" alt="StudentSelectionKor" src="https://github.com/user-attachments/assets/9497d821-7f76-4742-b7f4-6b9b5fffb98d">
+**4. Choose between your favorite students / 여러 최애 학생들 사이에서 선택**
+
+<img width="390" alt="selectStudentEng" src="https://github.com/user-attachments/assets/c6f8a353-fe46-4174-9a08-fa304f7c5005">
+<img width="356" alt="selectStudentKor" src="https://github.com/user-attachments/assets/9f07d602-eac0-4856-89d0-dd9de4dcd105">
 
 <p>Student List will be added via version update</p>
 <p>학생 목록은 업데이트로 차차 추가될 예정입니다</p>
 
 <br/>
 
-<img width="400" alt="LanguageSelectionEng" src="https://github.com/user-attachments/assets/8b3f5d7f-15af-4292-852d-d7eccf679aa5">
-<img width="362" alt="LanguageSelectionKor" src="https://github.com/user-attachments/assets/2c0bf055-e467-4481-8a38-877ca2c29815">
+**5. Language Selection only for this app / 앱용 언어 설정**
+
+<img width="398" alt="selectLanguageEng" src="https://github.com/user-attachments/assets/bae8eaac-f7ff-4ad8-8dcc-d647b523d9e1">
+<img width="359" alt="selectLanguageKor" src="https://github.com/user-attachments/assets/577fc3e3-ebd1-4caa-833c-6350d2662d4d">
 
 <p>You can choose between English, Korean, and Japanese</p>
 <p>영어, 한국어, 일본어 중에서 선택할 수 있습니다</p>
+
+<br/>
+
+**6. Check Update Feature / 업데이트 체크**
+
+<img width="619" alt="checkForUpdate" src="https://github.com/user-attachments/assets/65bc70ba-d0a5-428c-9ff4-faf1e105c39f">
+
+<p>You can check latest version update via clicking on "Check For Update..."</p>
+<p>"업데이트 확인하기..."를 클릭해서 최신 버전의 앱을 확인해 다운받을 수 있습니다</p>
+
+<br/>
+
+**7. Automatic Launch at Login / 로그인 시 자동 실행**
+
+<img width="353" alt="autoRunNotification" src="https://github.com/user-attachments/assets/89dadd6c-2570-4af2-93ae-995a2e770d9d">
+
+<p>You'll get this Notification when clicking on "Enable Launch Automatically At Login"</p>
+<p>"로그인 시 자동실행 설정하기"을 클릭하면 다음과 같이 알림을 받습니다</p>
+
+<img width="485" alt="autoRunSettings" src="https://github.com/user-attachments/assets/6d2573f3-a97b-48d4-9f53-08f3a649c64a">
+
+<p>Choose System Settings > General > Login Items, then you can find out BAMenuBar in Open at Login list</p>
+<p>시스템 설정 > 일반 > 로그인 항목 이동 후, 로그인 시 열기에서 BAMenuBar를 확인할 수 있습니다</p>
+
+<img width="319" alt="disableAutoRunEng" src="https://github.com/user-attachments/assets/a0aa338a-0742-4c48-8036-d51c53e21a7a">
+<img width="303" alt="disableAutoRunKor" src="https://github.com/user-attachments/assets/7601aea5-9562-48b8-8cd8-582a3eabe6eb">
+
+<p>You don't have to open System Settings to remove BAMenuBar from Login list, just click on "Disable Launch Automatically At Login"</p>
+<p>시스템 설정을 따로 열 필요 없이 "로그인 시 자동실행 해제하기"를 클릭해 간편하게 해제할 수 있습니다</p>
+
+##
+
+Development Portfolio Github / 개발 포폴 Github: 
 
 ##
 
