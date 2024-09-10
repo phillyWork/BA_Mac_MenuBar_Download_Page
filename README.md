@@ -35,13 +35,19 @@ $\bf{\color{#FF0000}오직}$ **MacOS** 에서만 실행할 수 있는 앱입니�
 <p>Download Link is on the right corner: "Release"</p>
 <p>다운로드 링크는 오른쪽 "Release" 버튼을 누르면 됩니다</p>
 
-<img width="989" alt="githubRelease" src="https://github.com/user-attachments/assets/5ea8f020-c5fa-4d06-93df-7f33a644f1fe">
+<img width="973" alt="스크린샷 2024-09-11 오전 2 21 45" src="https://github.com/user-attachments/assets/5849efac-7538-46a1-a540-f88598e386d6">
 <p>You can download latest release version or previous version as well</p>
 <p>가장 최근 버전 혹은 이전 버전을 다운로드 받을 수 있습니다</p>
 
 <br/>
 
-$\color{#FF0000}!!$ You should run this app in "Application" for Update Check feature $\color{#FF0000}!!$
+<img width="1076" alt="스크린샷 2024-09-11 오전 2 20 53" src="https://github.com/user-attachments/assets/63a64826-86ad-4c00-923c-fe67bc9a7c80">
+
+<p>You can see this image when you unarchive .dmg file</p>
+
+$\color{#FF0000}!!$ You should install this app in "Application" for Update Check feature $\color{#FF0000}!!$
+
+<p>.dmg 파일을 압축 해제를 하면 다음과 같은 화면을 볼 수 있습니다</p>
 
 $\color{#FF0000}!!$ 업데이트 체크를 위해 "응용 프로그램"으로 옮겨서 실행해야 합니다 $\color{#FF0000}!!$
 
